@@ -1,0 +1,80 @@
+HOG príznaky:
+
+SVM:
+Natrénovanie klasifikátora: 13.4850 sekúnd
+
+Priemerný cas extrahovania príznakov na jednu detekovanú tvár: 0.0012 sekúnd
+Priemerný cas predikcie osoby na jednu detekovanú tvár: 0.1277 sekúnd
+
+TP: 138
+TN: 27
+FP: 2
+FN: 6
+
+
+KNN:
+
+Natrénovanie klasifikátora: 2.7692 sekúnd
+
+Priemerný cas extrahovania príznakov na jednu detekovanú tvár: 0.0011 sekúnd
+Priemerný cas predikcie osoby na jednu detekovanú tvár: 0.0402 sekúnd
+
+TP: 138
+TN: 27
+FP: 3
+FN: 5
+
+
+LBP príznaky:
+
+SVM:
+Natrénovanie klasifikátora: 4.8885 sekúnd
+
+Priemerný cas extrahovania príznakov na jednu detekovanú tvár: 0.0014 sekúnd
+Priemerný cas predikcie osoby na jednu detekovanú tvár: 0.1107 sekúnd
+
+TP: 17
+TN: 33
+FP: 0
+FN: 123
+
+
+
+KNN:
+Natrénovanie klasifikátora: 2.9440 sekúnd
+
+Priemerný cas extrahovania príznakov na jednu detekovanú tvár: 0.0014 sekúnd
+Priemerný cas predikcie osoby na jednu detekovanú tvár: 0.0048 sekúnd
+
+TP: 31
+TN: 33
+FP: 0
+FN: 109
+
+
+Eigenface príznaky:
+
+KNN:
+Natrénovanie klasifikátora: 1.8771 sekúnd
+
+Priemerný cas extrahovania príznakov na jednu detekovanú tvár: 0.0020 sekúnd
+Priemerný cas predikcie osoby na jednu detekovanú tvár: 0.012702 sekúnd
+
+TP: 104
+TN: 33
+FP: 0
+FN: 36
+
+
+Fisherface príznaky:
+
+KNN:
+Natrénovanie klasifikátora: 4.4529 sekúnd
+
+Priemerný cas extrahovania príznakov na jednu detekovanú tvár: 0.0048 sekúnd
+Priemerný cas predikcie osoby na jednu detekovanú tvár: 0.00072414 sekúnd
+
+TP: 89
+TN: 33
+FP: 0
+FN: 51
